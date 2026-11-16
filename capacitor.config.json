@@ -1,0 +1,6 @@
+{
+  "appId": "com.catatan.taktis",
+  "appName": "Catatan Taktis",
+  "webDir": "www",
+  "android": { "backgroundColor": "#fafaf7" }
+}
